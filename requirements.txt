@@ -1,0 +1,5 @@
+fastapi~=0.112.2
+uvicorn~=0.30.6
+starlette~=0.38.2
+python-dotenv~=1.0.1
+openai==1.42.0
